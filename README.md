@@ -4,7 +4,7 @@ Live App:-- https://github.com/abhishekkumar62000/AI-Meeting-Preparation-Agent
 
 Uploading App Demo.mp4…
 
-
+<img width="1912" height="938" alt="app page" src="https://github.com/user-attachments/assets/7df59a8e-2793-47ef-b1ad-6299e2699b65" />
 
 
 ````markdown
