@@ -1,0 +1,7 @@
+streamlit 
+crewai
+crewai-tools
+openai
+pypdf
+python-pptx
+Pillow
