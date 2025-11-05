@@ -7,7 +7,6 @@ Uploading App Demo.mp4…
 <img width="1912" height="938" alt="app page" src="https://github.com/user-attachments/assets/7df59a8e-2793-47ef-b1ad-6299e2699b65" />
 
 
-````markdown
 # AI Meeting Preparation Agent 📝
 
 **Multi-agent intelligence for real meetings — Turn meetings into momentum.**
