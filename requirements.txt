@@ -1,7 +1,7 @@
 streamlit 
 crewai
 crewai-tools
-openai
+openai 
 pypdf
 python-pptx
 Pillow
