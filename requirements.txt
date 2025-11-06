@@ -1,5 +1,5 @@
  streamlit 
-crewai
+
 crewai-tools
 openai 
 pypdf
